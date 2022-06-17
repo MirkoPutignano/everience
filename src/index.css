@@ -1,0 +1,8 @@
+body {
+  margin: 0
+}
+
+.MuiCard-root {
+  overflow: hidden;
+  padding: 15px;
+}
